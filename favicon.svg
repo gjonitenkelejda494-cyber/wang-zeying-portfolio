@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#f6cf6f"/>
+  <path d="M14 17c11-6 25-6 36 0v30c-11 6-25 6-36 0z" fill="#fffdf8" stroke="#27333a" stroke-width="3"/>
+  <text x="32" y="42" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="800" fill="#2c8c7f">泽</text>
+</svg>
